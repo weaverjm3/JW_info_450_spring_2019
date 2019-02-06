@@ -1,0 +1,3 @@
+﻿  circumference.cpp
+c:\users\josh\documents\github\jw_info_450_spring_2019\week3\circumference\circumference\circumference.cpp(6): warning C4305: 'initializing': truncation from 'double' to 'float'
+  circumference.vcxproj -> C:\Users\Josh\Documents\GitHub\JW_info_450_spring_2019\week3\circumference\Debug\circumference.exe

@@ -1,0 +1,7 @@
+﻿  build_functions.cpp
+c:\users\josh\documents\github\jw_info_450_spring_2019\week3\build_functions\build_functions\build_functions.cpp(35): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\josh\documents\github\jw_info_450_spring_2019\week3\build_functions\build_functions\build_functions.cpp(39): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\josh\documents\github\jw_info_450_spring_2019\week3\build_functions\build_functions\build_functions.cpp(43): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\josh\documents\github\jw_info_450_spring_2019\week3\build_functions\build_functions\build_functions.cpp(47): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\josh\documents\github\jw_info_450_spring_2019\week3\build_functions\build_functions\build_functions.cpp(51): warning C4553: '==': result of expression not used; did you intend '='?
+  build_functions.vcxproj -> C:\Users\Josh\Documents\GitHub\JW_info_450_spring_2019\week3\build_functions\Debug\build_functions.exe

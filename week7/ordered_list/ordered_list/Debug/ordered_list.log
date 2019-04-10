@@ -1,0 +1,3 @@
+﻿  ordered_list.cpp
+c:\users\joshuaweaver\desktop\hw\ordered_list\ordered_list\ordered_list.cpp(27): warning C4717: 'node::print_data': recursive on all control paths, function will cause runtime stack overflow
+  ordered_list.vcxproj -> C:\Users\JoshuaWeaver\Desktop\HW\ordered_list\Debug\ordered_list.exe

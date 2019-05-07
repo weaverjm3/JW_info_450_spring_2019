@@ -35,26 +35,20 @@ int main()
 		vehiclenum += 1;
 		cout << "Is this an automobile or a truck? Enter 'automobile' or 'truck' ";
 		cin >> type;
-		out << "Vehicle ";
-		out << vehiclenum << endl;
-		out << "Type: ";
 		out << type << endl;
 
 		cout << "How many wheels does this vehicle have? ";
 		cin >> wheels;
-		out << "Wheels: ";
 		out << wheels << endl;
 
 		cout << "How many passengers can this vehicle hold? ";
 		cin >> passengers;
-		out << "Passenger Capacity: ";
 		out << passengers << endl;
 
 		if (type == "truck")
 		{
 			cout << "How much cargo (in pounds) can this vehicle hold? ";
 			cin >> cargolbs;
-			out << "Cargo Capacity (lbs): ";
 			out << cargolbs << endl;
 		}
 
@@ -62,7 +56,6 @@ int main()
 		{
 			cout << "What type of automobile is this?   Enter van, car or wagon ";
 			cin >> type2;
-			out << "Automobile type: ";
 			out << type2 << endl;
 		}
 

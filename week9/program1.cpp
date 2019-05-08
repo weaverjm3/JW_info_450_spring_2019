@@ -62,7 +62,6 @@ int main()
 		cout << "Would you like to enter another vehicle? yes or no: ";
 		cin >> exit;
 		cout << endl;
-		out << endl;
 		if (exit == "yes")
 		{
 			continue;
